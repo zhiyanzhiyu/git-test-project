@@ -141,5 +141,3 @@ $ git pull origin master                # 下载远程代码
 $ git merge master                      # 合并master分支
 $ git push -u origin master             # 上传代码
 ```
-
-可以关注微信公众号：lovephp，一起交流学习
